@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["MatchFinder","Searches a crate for pattern matches and possibly replaces them with something else."],["SsrError",""],["SsrMatches",""],["SsrRule",""]]});
